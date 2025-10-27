@@ -1,6 +1,7 @@
 # Yu-Gi-Oh JoKenPo
 
 Um jogo de cartas inspirado em Yu-Gi-Oh que mistura as mecânicas do Jo-Ken-Po (Pedra, Papel e Tesoura).
+Projeto desenvolvido durante o Bootcamp Potência Tech iFood - Desenvolvimento de Jogos.
 
 ## Como Jogar
 
@@ -21,6 +22,7 @@ Um jogo de cartas inspirado em Yu-Gi-Oh que mistura as mecânicas do Jo-Ken-Po (
 - HTML
 - CSS
 - JavaScript
+- Framework RPGUI (para estilo visual RPG)
 
 ## Como Executar
 
@@ -33,3 +35,9 @@ O jogo inclui:
 - Animações e vídeos temáticos
 - Sistema de pontuação
 - Interface inspirada no anime
+
+## Créditos
+
+- Ativos base disponíveis em: [digitalinnovationone/js-yugioh-assets](https://github.com/digitalinnovationone/js-yugioh-assets)
+- Framework RPGUI para estilo visual
+- Desenvolvido como parte do Bootcamp Potência Tech iFood
