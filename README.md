@@ -29,3 +29,7 @@ captura de tela do jogo captura de tela do jogo captura de tela do jogo
 📌 Créditos:
 Os ativos usados ​​no projeto estão disponíveis no repositório: digitalinnovationone/js-yugioh-assets .
 Também foi utilizado o framework RPGUI que fornece um conjunto de ativos no estilo RPG pronto para uso.
+
+htlm...
+lavascript...
+styler.css.
